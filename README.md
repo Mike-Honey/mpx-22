@@ -1,5 +1,5 @@
 # mpx-22
-Projects on MonkeyPox (MPX) - data and DataViz
+Projects on Monkeypox (MPX) - data and DataViz
 
 ## Monkeypox - Summary
 View all Countries, Choose any date range, Country, Continent or Global, OCED, EU. 
